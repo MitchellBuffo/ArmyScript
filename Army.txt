@@ -1,2 +1,2 @@
-vers=13
-vers_text=16.10.2021
+vers=14
+vers_text=18.10.2021
