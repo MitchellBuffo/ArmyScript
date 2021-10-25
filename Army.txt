@@ -1,2 +1,2 @@
-vers=18
-vers_text=22.10.2021
+vers=19
+vers_text=25.10.2021
