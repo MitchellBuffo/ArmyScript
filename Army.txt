@@ -1,2 +1,2 @@
-vers=26
+vers=27
 vers_text=26.10.2021
