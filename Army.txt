@@ -1,4 +1,3 @@
 vers=24
 vers_text=25.10.2021
 text_message="Привет"
-
