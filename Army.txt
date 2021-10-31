@@ -1,2 +1,2 @@
-vers=34
-vers_text=30.10.2021
+vers=35
+vers_text=31.10.2021
