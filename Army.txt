@@ -1,2 +1,2 @@
-vers=41
-vers_text=3.11.2021
+vers=42
+vers_text=5.11.2021
