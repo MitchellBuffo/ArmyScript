@@ -1,2 +1,2 @@
-vers=56
-vers_text=9.11.2021
+vers=57
+vers_text=11.11.2021
