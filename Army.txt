@@ -1,2 +1,2 @@
-vers=65
-vers_text=22.11.2021
+vers=66
+vers_text=24.11.2021
