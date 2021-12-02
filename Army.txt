@@ -1,2 +1,3 @@
 vers=68
 vers_text=27.11.2021
+TextUpdate=Как то так
